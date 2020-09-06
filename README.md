@@ -1,2 +1,2 @@
 # ArduinoTool
-ArduinoTool mobile app
+The ArduinoTool mobile app Github repo.
